@@ -1,7 +1,6 @@
 # Image Processor API
 
-This is the REST API example project from the first night of class. The following explain
-a few useful things in case you want to get stuff running.
+This API is a very limitied and bare bones attempt at creating an API that could do basic image processing. The database, server, and image uploads are all meant to be done locally; it was designed as an experiment rather than an actual product. 
 
 ## How to get it to work
 
